@@ -17,14 +17,20 @@ The data used for this research will include a variety of data points focused on
 An example: The structure of the data is organized as shown in the following outline. The idea would be to initially use only the individual metrics for a given theme. These individual data points have already been mapped to each theme. Later versions of this research could include using data points that are not explicitly mapped to a given theme in case there exists a relationship between the theme and a seemingly "unrelated" data point. 
 
 Level 1: Theme A
+
     Level 2: Data 1A
+    
     Level 2: Data 2A
+    
     Level 2: Data 3A
 
 
 Level 1: Theme B
+
     Level 2: Data 1B
+    
     Level 2: Data 2B
+    
     Level 2: Data 3B
 
 **Overview of Research Approach:**
