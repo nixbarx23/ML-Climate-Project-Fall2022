@@ -5,6 +5,7 @@ In finance, ESG has gained more and more momentum with clients increasing their 
 An example: If a client is determined to target companies that produce excessive amounts of pollution & waste, what would be the best combination of metrics such as the amount of hazardous waste they create, non-recyclable waste, or different intensity metrics related to harmful emissions. 
 
 **Objective of Proposed Research:**
+
 The ultimate objective of the research would be create a framework, based on causal discovery and modeling, that could inform the weighting of possible data points related to a specific theme. The goal would be to create a framework that is theme-agnostic so that it can be leveraged for themes across the E, S, and G pillars without imposing prior knowledge on the onset of the definition of the theme. 
 
 An example:
@@ -13,5 +14,7 @@ Related data points: hazardous waste, non-recyclable waste, hazardous emissions
 Hypothetical Output: Based on the framework created, the informed combination of possible data points to define the theme of "pollution & waste" is 65% hazardous waste, 18% non-recyclable waste, and the remaining 17% equally distributed across the specific hazardous emission intensity metrics. 
 
 **Data Sources:**
+
+The data used for this research will include a variety of data points focused on the "bottom-level" metrics associated with each theme. The types of data will span continuous quantitative data, binary data, and other topic-specific precomputed scores. 
 
 
