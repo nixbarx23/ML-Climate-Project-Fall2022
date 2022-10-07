@@ -1,6 +1,10 @@
 
 ## **Update October 7, 2022:**
 
+
+### *FIGURES SHOULD BE ABLE TO BE UPLOADED BY EARLY WEEK OF 10/10*
+
+
 Initial EDA on HCM-related KPIs was conducted on the set of continuous variables. Characteristics examined:
 
 - distribution of each variable
