@@ -8,23 +8,23 @@ Initial EDA on HCM-related KPIs was conducted on the set of continuous variables
 - (ADDITIONAL COMPONENTS TO BE ADDED)
 
 _Sample figure created can be found in the figure folder. 
-
+_
 In addition to developing EDA capabilities, have focused on conditional independence/regression testing and graph visualization.
 
-Conditional Independence/Regression Testing:
-
+_Conditional Independence/Regression Testing:
+_
 Within the larger CDT library, using specific capabilities within the Independence.Stats component. Initial analysis will focus on running pairwise indepdence tests with each relevant data column (some test results depdend on the direction i.e. A, B is different than B, A). Initial results are being reviewed within a N x N (for N data columns) pairwise matrix. 
 
-      Initial tests being conducted:
-      - Spearman and Pearson correlations
-      - Mutual Information Regression     
+Initial tests being conducted:
+- Spearman and Pearson correlations
+- Mutual Information Regression     
 
 Graph Visualization:
 
 Using Python library Algorithmx, have begun building out initial capabilities for graph visualization. 
 
 _Sample figure created can be found in the figure folder. 
-
+_
 **Update September 30, 2022:**
 
 The data associated with a given issue follows the given structure:
