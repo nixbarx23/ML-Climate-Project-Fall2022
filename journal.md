@@ -2,7 +2,7 @@
 ## **Update October 7, 2022:**
 
 
-##### *FIGURES SHOULD BE ABLE TO BE UPLOADED BY EARLY WEEK OF 10/10*
+##### *FIGURES SHOULD BE ABLE TO BE UPLOADED BY EARLY WEEK OF 10/10* -- finalizing permissions to upload.
 
 
 Initial EDA on HCM-related KPIs was conducted on the set of continuous variables. Characteristics examined:
