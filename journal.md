@@ -29,6 +29,7 @@ Scope of metrics related to human capital/human resources themes now include con
 
 
 Current areas of focus include:
+- add additional reference data including sector, industry, and country. Once data is acquired, create encoding of variables to account for differences that may occur simply because of the type of company it is or where it resides (i.e. country).
 - due to differences in data coverage across the full inventory of metrics, need to determine whether to focus only on observations with valid values across all metrics or allow for some metrics to be NaN. If so, how to process NaN in conditional independence testing. 
 - developing framework to evaluation independence-relationship between continious and discrete variables. Will explore possible encoding or bucketing of continious variables to make discrete. 
 
