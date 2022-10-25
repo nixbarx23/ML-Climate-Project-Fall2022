@@ -1,3 +1,37 @@
+## **Update October 24, 2022:**
+
+
+Scope of metrics related to human capital/human resources themes now include continuous variables as well as discrete scores. Columns include:
+- Severity of Employee Health & Safety Controversies (discrete, precomputed score, possible values: 1-10)
+- Total Recordable Incident Rate
+- Fatalities/Employees - Most Recent
+- Lost Time Incident Rate (per million hours) - Most Recent
+- Percentage of Health & Safety System Certified to OHSAS 18001
+      - OHSAS 18001 focuses on controlling hazards. It provides a framework for the effective management of occupational health and safety including all aspects of           risk management and legal compliance. It addresses occupational health and safety rather than any specific product safety matters.
+- Severity of Discrimination & Workforce Diversity Controversies (discrete, precomputed score, possible values: 1-10)
+- Severity of Labor Management Relations Controversies (discrete, precomputed score, possible values: 1-10)
+- Severity of Collective Bargaining & Union Controversies (discrete, precomputed score, possible values: 1-10)
+- Major Layoffs
+- Over 20% of workforce considered part-time or temporary (-1,0)
+- Percentage of women in executive management (%)
+- Percentage of women in workforce (%)
+- Annual employee turnover (%)
+- Professional development annual training hours per employee
+- Percentage of women in senior management (%)
+- Severity of Supply Chain Labor Standards Controversies (discrete, precomputed score, possible values: 1-10)
+- Severity of Impact on Local Communities Controversies (discrete, precomputed score, possible values: 1-10)
+- Severity of Civil Liberties Controversies (discrete, precomputed score, possible values: 1-10)
+- Severity of Human Rights Concerns Controversies (discrete, precomputed score, possible values: 1-10)
+- Severity of Other Human Rights Controversies (discrete, precomputed score, possible values: 1-10)
+- Severity of Child Labor Controversies (discrete, precomputed score, possible values: 1-10)
+- Severity of Other Labor Rights Controversies (discrete, precomputed score, possible values: 1-10)
+- Severity of Supply Chain Labor Standards Controversies (discrete, precomputed score, possible values: 1-10)
+
+
+Current areas of focus include:
+- due to differences in data coverage across the full inventory of metrics, need to determine whether to focus only on observations with valid values across all metrics or allow for some metrics to be NaN. If so, how to process NaN in conditional independence testing. 
+- developing framework to evaluation independence-relationship between continious and discrete variables. Will explore possible encoding or bucketing of continious variables to make discrete. 
+
 
 ## **Update October 7, 2022:**
 
