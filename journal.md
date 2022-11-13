@@ -12,15 +12,15 @@ A similar analysis was carried on observations that do not contain the top score
 This has created some initial suspicisions that the rating data does not actually help provide meaningful insights into these companies. Therefore, the future direction of the analysis will be focused on the following components:
 
 
-      1. Evaluating the explainability of pre-calculated scores/ratings based on their underlying components
-      
-      
-      2. Proposal of new combination of underlying components that seeks to be more transparent and have a greater explainability of final scores/ratings
-            - Will seek to achieve a more fair representation of different data classes by utilizing the over-sampling and under-sampling methodologies
-            - One potential weighting methdologies that will be evaluated is the combination of metrics that are most similar to the top components of the K-Means                  model (also may leverage PCA as well)
-            
-            
-      3. Comparison of precalculated metrics vs. newly created metrics
+1. Evaluating the explainability of pre-calculated scores/ratings based on their underlying components
+
+
+2. Proposal of new combination of underlying components that seeks to be more transparent and have a greater explainability of final scores/ratings
+- Will seek to achieve a more fair representation of different data classes by utilizing the over-sampling and under-sampling methodologies
+- One potential weighting methdologies that will be evaluated is the combination of metrics that are most similar to the top components of the K-Means                  model (also may leverage PCA as well)
+
+
+3. Comparison of precalculated metrics vs. newly created metrics
 
 ## **Update October 24, 2022:**
 
