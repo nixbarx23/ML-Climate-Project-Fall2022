@@ -1,7 +1,5 @@
 ## **Update November 13, 2022:**
 
-Summary of research complete so far:
-
 **K-Means Clustering:**
 - K-means clustering to determine if there are any natural groupings of observations. Used the "elbow-method" which plots the inertia value of the K-Means model at different number of clusters. Potential number of clusters were run from 1 - 50, but the results do not highlight a natural inflection point or obvious number of optimal clusters. 
 
@@ -9,6 +7,7 @@ Upon further investigation of the data, there does not seem to be material dispe
 
 A similar analysis was carried on observations that do not contain the top score on all ratings. Furthermore, we also focused the analysis on observations with at least two rating scores being non-10s. However, in both scenarios, there still does not seem to be an obvious number of clusters to appropriately characterize the dataset by. 
 
+**Next Steps:**
 This has created some initial suspicisions that the rating data does not actually help provide meaningful insights into these companies. Therefore, the future direction of the analysis will be focused on the following components:
 
 
