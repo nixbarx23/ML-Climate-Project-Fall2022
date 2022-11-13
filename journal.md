@@ -1,3 +1,20 @@
+## **Update November 13, 2022:**
+
+Summary of research complete so far:
+
+**K-Means Clustering:**
+- K-means clustering to determine if there are any natural groupings of observations. Used the "elbow-method" which plots the inertia value of the K-Means model at different number of clusters. Potential number of clusters were run from 1 - 50, but the results do not highlight a natural inflection point or obvious number of optimal clusters. 
+
+Upon further investigation of the data, there does not seem to be material dispersion across observations. For example, for scores that provide ratings from 1 -10, with 10 being the best, the 25%tile - 75%tile of values are 10. What is the value of a rating metric if at least 75% of values are all the same. 
+
+A similar analysis was carried on observations that do not contain the top score on all ratings. Furthermore, we also focused the analysis on observations with at least two rating scores being non-10s. However, in both scenarios, there still does not seem to be an obvious number of clusters to appropriately characterize the dataset by. 
+
+This has created some initial suspicisions that the rating data does not actually help provide meaningful insights into these companies. Therefore, the future direction of the analysis will be focused on the following components:
+      1. Evaluating the explainability of pre-calculated scores/ratings based on their underlying components
+      2. Proposal of new combination of underlying components that seeks to be more transparent and have a greater explainability of final scores/ratings
+            - Will seek to achieve a more fair representation of different data classes by utilizing the over-sampling and under-sampling methodologies
+      3. Comparison of precalculated metrics vs. newly created metrics
+
 ## **Update October 24, 2022:**
 
 
