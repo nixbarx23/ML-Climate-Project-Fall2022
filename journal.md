@@ -1,3 +1,7 @@
+## **Update November 14, 2022:**
+
+- Uploaded HTML output of python jupyter notebook that contains the K-Means clustering plots. For each dataset examined, a subplot of N graphs is created that shows the clustering of the data as the number of clusters increase. N is decided by the number of features that exist in the dataset as the subplots display the clusters based on the 1st and 2nd components of a PCA analysis. 
+
 ## **Update November 13, 2022:**
 
 **K-Means Clustering:**
